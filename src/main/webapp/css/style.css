@@ -126,6 +126,7 @@ body, html {
 
 .userProfileForm pre {
 	text-align: left;
+	white-space: pre-wrap;
 }
 
 .userProfileForm .lastEdit {
